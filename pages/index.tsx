@@ -42,8 +42,8 @@ export default function Index({
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </Container>
-        <IntroTemplate />
-      </Layout>
+{/*         <IntroTemplate />
+ */}      </Layout>
     </>
   )
 }
